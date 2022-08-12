@@ -7,7 +7,6 @@ import {
   MDBCol,
   MDBContainer,
   MDBIcon,
-  MDBInput,
   MDBRow,
   MDBTextArea,
   MDBTypography,
